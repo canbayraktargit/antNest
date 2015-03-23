@@ -1,7 +1,6 @@
 <?php 
     include './php/main.php';
 ?>
-
 <html>
     <head>
         <meta charset="utf-8" />
