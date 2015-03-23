@@ -38,7 +38,7 @@
             }
             $this->root->append($head);
         }
-        private function navbar()
+        
         public function body($settings){
             
         }
