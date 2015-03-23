@@ -1,0 +1,27 @@
+{
+    "name" : "antNest",
+    "head" : {
+        "title" : "AntNest Main",
+        "css" : [
+            "libs/jquery-ui-1.11.4/jquery-ui.min.css",
+            "libs/jquery-ui-1.11.4/jquery-ui.structure.min.css",
+            "libs/jquery-ui-1.11.4/jquery-ui.theme.min.css",
+            "libs/fullPage.js-master/jquery.fullPage.css",
+            "libs/bootstrap-3.3.2-dist/css/bootstrap-theme.min.css",
+            "libs/bootstrap-3.3.2-dist/css/bootstrap.min.css",
+            "libs/animate.css",
+            "css/antNest.css"
+        ],
+        "js" : [
+            "libs/jquery-1.11.2.min.js",
+            "libs/jquery-ui-1.11.4/jquery-ui.min.js",
+            "libs/fullPage.js-master/vendors/jquery.slimscroll.min.js",
+            "libs/fullPage.js-master/jquery.fullPage.min.js",
+            "libs/bootstrap-3.3.2-dist/js/bootstrap.min.js",
+            "js/antNest.js"
+        ]
+    },
+    "body" : {
+        
+    }
+}

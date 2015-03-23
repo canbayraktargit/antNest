@@ -19,7 +19,7 @@ class Main{
         }
     }
     public static function getJson($fileName){
-        return json_decode(file_get_contents("./json/".$fileName."json"));
+        return json_decode(file_get_contents("./json/".$fileName.".json"));
     }
     public static function finish(){
         ErrorHandleFile::close();
