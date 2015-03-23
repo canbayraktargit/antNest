@@ -7,7 +7,8 @@ class Main{
     
     public static function init(){
         try {
-            //self::$sqlConnection = new SqlConnection();
+            self::$sqlConnection = new SqlConnection();
+
         } catch(Exception $ex) {
             ErrorHandleFile::sendError($ex->getMessage());
         }

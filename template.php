@@ -29,9 +29,7 @@
     </head>
     <body>
         <!-- html part will be rendered here -->
-        <?php 
-            include './php/initialize.php';
-        ?>
+        
         <!-- navbar template -->
         <nav id="navbar" class="navbar navbar-default navbar-fixed-top">
             <div class="container-fluid">
@@ -92,7 +90,7 @@
         
         
         <div id="fullpage">
-           
+
             <!-- section with carousel -->
             <div class="section">
                 <div id="carousel-example-generic" class="carousel slide" data-ride="carousel">
