@@ -38,7 +38,6 @@
             }
             $this->root->append($head);
         }
-        
         public function body($settings){
             
         }
